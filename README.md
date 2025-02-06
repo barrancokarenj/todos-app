@@ -24,7 +24,7 @@ Prerequisites:
 
 ```
 
-## Build NuxtJS Client Local Setup
+## Build NuxtJS Client Local Setup Steps:
 
 ```bash
 
