@@ -6,11 +6,9 @@ Prerequisites:
 ## Build FastAPI Local Setup
 ```bash
 
-1.  Clone the repository and checkout main branch
+1.  Clone the repository
 
     $ git clone https://github.com/barrancokarenj/todos-app.git todos-app
-
-    $ checkout branch main
 
 2.  Navigate inside todos-app/todo-fastapi folder
 
@@ -23,7 +21,6 @@ Prerequisites:
    $ docker compose up --build -d
 
 5. Access http://localhost:3001/docs to check if server is running
-
 
 
 ## Build NuxtJS Client Local Setup
