@@ -3,7 +3,7 @@
 Prerequisites: 
  - Docker Desktop
 
-## Build FastAPI Local Setup
+## Build FastAPI Local Setup Steps:
 ```bash
 
 1.  Clone the repository
@@ -22,6 +22,7 @@ Prerequisites:
 
 5. Access http://localhost:3001/docs to check if server is running
 
+```
 
 ## Build NuxtJS Client Local Setup
 
